@@ -5,9 +5,7 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Register here" %>
+<h1><%= "Some operations over organization" %>
 </h1>
-<br/>
-<a href="registration">Hello Servlet</a>
 </body>
 </html>
